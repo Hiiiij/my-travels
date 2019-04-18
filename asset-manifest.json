@@ -1,14 +1,13 @@
 {
-  "main.css": "/my-travels/./static/css/main.cbb4cc85.chunk.css",
-  "main.js": "/my-travels/./static/js/main.4f9256c4.chunk.js",
-  "main.js.map": "/my-travels/./static/js/main.4f9256c4.chunk.js.map",
+  "main.css": "/my-travels/./static/css/main.4be6a950.chunk.css",
+  "main.js": "/my-travels/./static/js/main.d4bd7905.chunk.js",
+  "main.js.map": "/my-travels/./static/js/main.d4bd7905.chunk.js.map",
   "runtime~main.js": "/my-travels/./static/js/runtime~main.68e6477a.js",
   "runtime~main.js.map": "/my-travels/./static/js/runtime~main.68e6477a.js.map",
   "static/js/2.65aa1cca.chunk.js": "/my-travels/./static/js/2.65aa1cca.chunk.js",
   "static/js/2.65aa1cca.chunk.js.map": "/my-travels/./static/js/2.65aa1cca.chunk.js.map",
   "index.html": "/my-travels/./index.html",
-  "precache-manifest.295ff960a4defc4535b89d2c755f2296.js": "/my-travels/./precache-manifest.295ff960a4defc4535b89d2c755f2296.js",
+  "precache-manifest.cc9f7aa66c57d6a81f85c460a4b84cc5.js": "/my-travels/./precache-manifest.cc9f7aa66c57d6a81f85c460a4b84cc5.js",
   "service-worker.js": "/my-travels/./service-worker.js",
-  "static/css/main.cbb4cc85.chunk.css.map": "/my-travels/./static/css/main.cbb4cc85.chunk.css.map",
-  "static/media/logo.svg": "/my-travels/./static/media/logo.5d5d9eef.svg"
+  "static/css/main.4be6a950.chunk.css.map": "/my-travels/./static/css/main.4be6a950.chunk.css.map"
 }
